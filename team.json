@@ -1,0 +1,11 @@
+{
+  "group": "NHÓM 15",
+  "members": [
+    "Nguyễn Đức Minh",
+    "Nguyễn Minh Quân"
+  ],
+  "project": "Robot 4 bánh điều khiển Bluetooth, dò line và tránh vật cản",
+  "repository": "https://github.com/Duyonl6/nhom15-robot-4wd-arduino",
+  "firmware": "v2.4",
+  "submission_date": "2026-11-23"
+}

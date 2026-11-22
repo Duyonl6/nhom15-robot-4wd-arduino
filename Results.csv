@@ -1,0 +1,9 @@
+﻿category,test,value,unit,evidence_status,source
+firmware,Nạp và đối chiếu v2.4,16422,byte,PASS - log nạp/verify 22-11,device-state.json
+memory,SRAM tĩnh,667,byte,Kết quả biên dịch 22-11,v24-final-compile.log
+host_tests,Bộ kiểm thử hồi quy,6,suite,PASS - chạy lại khi đóng gói,test-results.json
+manual,Lái tay và thả nút dừng,,,Người dùng xác nhận bằng pin 22-11,docs/verification.md
+obstacle,Tránh vật cản,,,Người dùng báo ổn bằng pin 22-11,docs/verification.md
+line_sensor,Vật đen mờ dưới mắt giữa,4,bitmask,Đo chẩn đoán USB 22-11,line-material-test.json
+line_sensor,Băng dính điện đen bóng,0,bitmask,Đo chẩn đoán USB 22-11,line-material-test.json
+line_tracking,Bám vạch hoàn chỉnh trên sàn,,,Chưa xác minh sau khi hạ cụm cảm biến,docs/verification.md
